@@ -53,3 +53,12 @@ Unity Game Engine: https://unity.com
 Unity Version Control (Plastic SCM): Basically like Git for Unity
 
 Blender (Maybe): If we have the time to go down the route of creating our own models rather than looking for assets, Blender is the moves!.
+
+
+----- 
+
+Link to Figma Wireframing:
+
+https://www.figma.com/design/BdGdgNb9Ho2CEMYxijQzlT/COMP-290-RACING-GAME-WIREFRAME?node-id=123-0&t=EffOvwL59tSmDaam-1
+
+This link will take you to 2 frames of wireframed templates for our racing game. As the concept is still in an early development stage its pretty primitive, but I think it gets te main components of the game down!
